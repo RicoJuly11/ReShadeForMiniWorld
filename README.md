@@ -12,3 +12,7 @@ https://drive.google.com/file/d/1Ow5bw4vZfIov5LYlXWGeiIwmWS39Aybq/view?usp=drive
 
 PotaBloom
 https://drive.google.com/file/d/1Tf3ppv8cF7XpqTTBZBMzg1lDNu-Sp4iO/view?usp=drive_link
+
+# YouTube Channel
+
+https://youtube.com/@ricoreshade
