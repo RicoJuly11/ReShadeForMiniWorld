@@ -1,6 +1,6 @@
 # ReShadeForMiniWorld
 
-Shader For Mini World CREATA    Download Now --->
+Shader For Mini World CREATA                                  Download Now --->
 
 # Presets From Rico
 
