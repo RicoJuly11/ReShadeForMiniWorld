@@ -2,7 +2,7 @@
 
 Shader For Mini World CREATA
 
-# Preset From Rico
+# Presets From Rico
 
 Rico's PTGI
 https://drive.google.com/file/d/17SuqhR3deTqvammyObCTKUEXx-SC5O8C/view?usp=drive_link
