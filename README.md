@@ -37,7 +37,7 @@ https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
 https://youtube.com/@ricoreshade
 
-# Presets Contributor YouTube Channel
+# Presets Contributors YouTube Channels
 
 Dhema
 https://youtube.com/@DhemzherDemaShorts
