@@ -17,8 +17,6 @@ https://drive.google.com/file/d/1Tf3ppv8cF7XpqTTBZBMzg1lDNu-Sp4iO/view?usp=drive
 
 # Presets From Dhema
 
-YouTube Channel : https://youtube.com/@DhemzherDemaShorts
-
 DHDZ Cartoon Edition
 https://drive.google.com/file/d/1eDC54WJFA_y6TvCrq5LEBK3C7fg4BXaH/view?usp=drive_link
 
@@ -31,13 +29,22 @@ https://drive.google.com/file/d/1vryV6JvJVdD8LbDQlQ-sdcwzIh0HIPJj/view?usp=drive
 DHDZ PTGI PHOTOREALISM
 https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive_link
 
-# Other Presets
+# Presets From irfan
 
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
 # YouTube Channel
 
 https://youtube.com/@ricoreshade
+
+# Presets Contributor YouTube Channel
+
+Dhema
+https://youtube.com/@DhemzherDemaShorts
+
+irfan
+https://youtube.com/@muhammadirfanfikri8020
+
 
 # ReShade Official Website
 
