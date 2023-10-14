@@ -4,6 +4,8 @@ Shader For Mini World CREATA
 
 Download Now On Releases ➡️➡️➡️➡️➡️➡️
 
+Tips : Press "End" on the keyboard to turn off and turn on the shader And Press "Home" on the keyboard to bring up the ReShade menu
+
 # Presets From Rico
 
 Rico's PTGI
