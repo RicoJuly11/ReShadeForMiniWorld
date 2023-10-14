@@ -15,6 +15,11 @@ https://drive.google.com/file/d/1Ow5bw4vZfIov5LYlXWGeiIwmWS39Aybq/view?usp=drive
 PotaBloom
 https://drive.google.com/file/d/1Tf3ppv8cF7XpqTTBZBMzg1lDNu-Sp4iO/view?usp=drive_link
 
+# Presets From Dhema
+
+DHDZ Shaders Pack
+https://drive.google.com/drive/folders/1ShfirCc75yap5RlDilPR31YBFq8L-OvB?usp=sharing
+
 # YouTube Channel
 
 https://youtube.com/@ricoreshade
