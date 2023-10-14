@@ -29,7 +29,7 @@ https://drive.google.com/file/d/1vryV6JvJVdD8LbDQlQ-sdcwzIh0HIPJj/view?usp=drive
 DHDZ PTGI PHOTOREALISM
 https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive_link
 
-# Presets From irfan
+# Presets From Irfan
 
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
@@ -42,7 +42,7 @@ https://youtube.com/@ricoreshade
 Dhema
 https://youtube.com/@DhemzherDemaShorts
 
-irfan
+Irfan
 https://youtube.com/@muhammadirfanfikri8020
 
 
