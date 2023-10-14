@@ -22,3 +22,7 @@ https://youtube.com/@ricoreshade
 # ReShade Official Website
 
 https://reshade.me
+
+# Mini World Official Website
+
+https://miniworldgame.com
