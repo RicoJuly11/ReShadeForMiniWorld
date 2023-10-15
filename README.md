@@ -6,6 +6,10 @@ Tips : Press "End" on the keyboard to turn off and turn on the shader And Press 
 
 Download Now On Releases ➡️➡️➡️➡️➡️➡️
 
+# YouTube Tutorial
+
+https://youtu.be/Yp9dcuputGg?si=n7X6xZ21ICJ2snUt
+
 # Presets From Rico
 
 Rico's PTGI
