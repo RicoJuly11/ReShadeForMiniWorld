@@ -39,6 +39,10 @@ https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive
 
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
+# Discord Server
+
+https://discord.gg/ArVN7qSE5G
+
 # YouTube Channel
 
 https://youtube.com/@ricoreshade
