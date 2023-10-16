@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive
 # Presets From Irfan
 
 RTX
-https://cdn.discordapp.com/attachments/1163022151075512360/1163110141370060810/RTX.rar?ex=653e61bb&is=652becbb&hm=363857ccfdc62cbf7d06179a2ed975a640556419fcc1bcb6145b5767e0688bae&
+https://cdn.discordapp.com/attachments/1163022151075512360/1163428927671377971/RTX_V2.rar?ex=653f8a9f&is=652d159f&hm=024e1f85accdb8ee94197174cb35354133198e1aab7be9239ec238ed13d0e7d1&
 
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
