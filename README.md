@@ -43,6 +43,14 @@ https://cdn.discordapp.com/attachments/1163022151075512360/1163428927671377971/R
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
+# Another Presets
+
+Dynamic Light
+https://drive.google.com/file/d/1xytDhixeKu4g_432MRDgqbCIfrXzEPdD/view?usp=sharing
+
+Crosshair PVP
+https://drive.google.com/file/d/1uIHRkhhbsWbPXTa4_Lkf3cm5R2jdpJ6b/view?usp=sharing
+
 # Discord Server
 
 https://discord.gg/ArVN7qSE5G
