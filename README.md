@@ -37,6 +37,10 @@ https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive
 
 # Presets From Irfan
 
+RTX
+https://cdn.discordapp.com/attachments/1163022151075512360/1163110141370060810/RTX.rar?ex=653e61bb&is=652becbb&hm=363857ccfdc62cbf7d06179a2ed975a640556419fcc1bcb6145b5767e0688bae&
+
+Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
 # Discord Server
