@@ -59,7 +59,7 @@ https://discord.gg/ArVN7qSE5G
 
 https://youtube.com/@ricoreshade
 
-# Presets Contributors YouTube Channels
+# Preset Maker YouTube Channels
 
 Dhema
 https://youtube.com/@DhemzherDemaShorts
