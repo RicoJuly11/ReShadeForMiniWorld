@@ -40,6 +40,15 @@ https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive
 RTX
 https://cdn.discordapp.com/attachments/1163022151075512360/1163428927671377971/RTX_V2.rar?ex=653f8a9f&is=652d159f&hm=024e1f85accdb8ee94197174cb35354133198e1aab7be9239ec238ed13d0e7d1&
 
+SOFT VOXELS LITE
+https://cdn.discordapp.com/attachments/1163022151075512360/1164821131564421121/SOFT_VOXELS_LITE.rar?ex=65449b37&is=65322637&hm=aa15cafe10f217be80391cddaef8718fb140ffe2043920219b50f2cc71f7d773&
+
+SEUS PTGI
+https://cdn.discordapp.com/attachments/1163022151075512360/1164833462742683658/SEUS_PTGI.rar?ex=6544a6b3&is=653231b3&hm=a0132c9e9d5bfb2cba9d39689c26e485699eb5931aedf096ad5cb47ebb473a50&
+
+SEUS PTGI RTX 3060
+https://cdn.discordapp.com/attachments/1163022151075512360/1164831534096842772/SEUS_PTGI_RTX_3060.rar?ex=6544a4e7&is=65322fe7&hm=711a98e36d6690051308b0988d92b221a4f21a98b3ff8878ef6d66f3cb1ee4d2&
+
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
