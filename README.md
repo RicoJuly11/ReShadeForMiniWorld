@@ -66,10 +66,6 @@ https://drive.google.com/file/d/1xytDhixeKu4g_432MRDgqbCIfrXzEPdD/view?usp=shari
 Crosshair PVP
 https://drive.google.com/file/d/1uIHRkhhbsWbPXTa4_Lkf3cm5R2jdpJ6b/view?usp=sharing
 
-# Discord Server
-
-https://discord.gg/ArVN7qSE5G
-
 # YouTube Channel
 
 https://youtube.com/@ricoreshade
