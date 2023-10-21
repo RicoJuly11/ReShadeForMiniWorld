@@ -6,6 +6,9 @@ Tips : Press "End" on the keyboard to turn off and turn on the shader And Press 
 
 Download Now On Releases ➡️➡️➡️➡️➡️➡️
 
+And Join ReShadeForMiniWorld Discord Server Now
+https://discord.gg/ArVN7qSE5G
+
 # YouTube Tutorial
 
 https://youtu.be/Yp9dcuputGg?si=n7X6xZ21ICJ2snUt
