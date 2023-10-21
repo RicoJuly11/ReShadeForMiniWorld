@@ -49,6 +49,9 @@ https://cdn.discordapp.com/attachments/1163022151075512360/1164833462742683658/S
 SEUS PTGI RTX 3060
 https://cdn.discordapp.com/attachments/1163022151075512360/1165153904565178398/SEUS_PTGI_RTX_3060_V2.rar?ex=6545d122&is=65335c22&hm=a63917c33de6ab2eb8fc8364c1d8cd70166a1ac3545ebf4033661d8ec6431404&
 
+SEUS PTGI GTX 730
+https://cdn.discordapp.com/attachments/1163022151075512360/1165178996732993559/SEUS_PTGI_GTX_730.rar?ex=6545e880&is=65337380&hm=30fcbd43be96aeafb48ff9d79f03c79597761aa13a63d4e7cc59ea1b2319b0a4&
+
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
