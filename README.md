@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive
 # Presets From Irfan
 
 RTX
-https://cdn.discordapp.com/attachments/1163022151075512360/1163428927671377971/RTX_V2.rar?ex=653f8a9f&is=652d159f&hm=024e1f85accdb8ee94197174cb35354133198e1aab7be9239ec238ed13d0e7d1&
+https://cdn.discordapp.com/attachments/1163022151075512360/1164836339611619328/RTX_V3.rar?ex=6544a960&is=65323460&hm=0f495d058f6079575951cf46d5e8b8c5e54a7017ad94eca0c6ad56dd5d951a64&
 
 SOFT VOXELS LITE
 https://cdn.discordapp.com/attachments/1163022151075512360/1164821131564421121/SOFT_VOXELS_LITE.rar?ex=65449b37&is=65322637&hm=aa15cafe10f217be80391cddaef8718fb140ffe2043920219b50f2cc71f7d773&
@@ -47,7 +47,7 @@ SEUS PTGI
 https://cdn.discordapp.com/attachments/1163022151075512360/1164833462742683658/SEUS_PTGI.rar?ex=6544a6b3&is=653231b3&hm=a0132c9e9d5bfb2cba9d39689c26e485699eb5931aedf096ad5cb47ebb473a50&
 
 SEUS PTGI RTX 3060
-https://cdn.discordapp.com/attachments/1163022151075512360/1164831534096842772/SEUS_PTGI_RTX_3060.rar?ex=6544a4e7&is=65322fe7&hm=711a98e36d6690051308b0988d92b221a4f21a98b3ff8878ef6d66f3cb1ee4d2&
+https://cdn.discordapp.com/attachments/1163022151075512360/1165153904565178398/SEUS_PTGI_RTX_3060_V2.rar?ex=6545d122&is=65335c22&hm=a63917c33de6ab2eb8fc8364c1d8cd70166a1ac3545ebf4033661d8ec6431404&
 
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
