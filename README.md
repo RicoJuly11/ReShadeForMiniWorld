@@ -58,6 +58,11 @@ https://cdn.discordapp.com/attachments/1163022151075512360/1165178996732993559/S
 Another
 https://www.mediafire.com/file/vv7ujcg1j8amfbo/New+folder.rar/file
 
+# Presets From Lão Ký
+
+LaoKy Shaders Pack
+https://cdn.discordapp.com/attachments/1163022151075512360/1169237694048649236/LaoKy_Presets.zip?ex=6554ac75&is=65423775&hm=71829902d8cfcd81acd161106193d520e44cdd676084595f9c2616923a408719&
+
 # Another Presets
 
 Dynamic Light
@@ -77,6 +82,9 @@ https://youtube.com/@DhemzherDemaShorts
 
 Irfan
 https://youtube.com/@muhammadirfanfikri8020
+
+Lão Ký
+https://youtube.com/@laoky8209
 
 
 # ReShade Official Website
