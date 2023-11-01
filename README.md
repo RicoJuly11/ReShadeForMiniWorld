@@ -77,6 +77,9 @@ https://youtube.com/@ricoreshade
 
 # Preset Maker YouTube Channels
 
+Rico
+https://youtube.com/@ricoreshade
+
 Dhema
 https://youtube.com/@DhemzherDemaShorts
 
