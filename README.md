@@ -38,10 +38,13 @@ https://drive.google.com/file/d/1vryV6JvJVdD8LbDQlQ-sdcwzIh0HIPJj/view?usp=drive
 DHDZ PTGI PHOTOREALISM
 https://drive.google.com/file/d/1IZGBegrJCdNyeTXLwKkhFNmiXTWd4K2-/view?usp=drive_link
 
+DHZD PTGI PRO ULTIMATE PACK EDITION
+https://drive.google.com/drive/folders/15SGD56MrwdL3k3vqYE0dNbBP5LcO_jPC?usp=sharing
+
 # Presets From Irfan
 
 RTX
-https://cdn.discordapp.com/attachments/1163022151075512360/1164836339611619328/RTX_V3.rar?ex=6544a960&is=65323460&hm=0f495d058f6079575951cf46d5e8b8c5e54a7017ad94eca0c6ad56dd5d951a64&
+https://cdn.discordapp.com/attachments/1163022151075512360/1172542871891611668/RTX_ON.ini?ex=6560b2a5&is=654e3da5&hm=f82c38a3c0c636544620bc1b2118c08c56c06b20e398ea5c024f46cfdb323450&
 
 SOFT VOXELS LITE
 https://cdn.discordapp.com/attachments/1163022151075512360/1164821131564421121/SOFT_VOXELS_LITE.rar?ex=65449b37&is=65322637&hm=aa15cafe10f217be80391cddaef8718fb140ffe2043920219b50f2cc71f7d773&
