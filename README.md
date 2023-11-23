@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1Ow5bw4vZfIov5LYlXWGeiIwmWS39Aybq/view?usp=drive
 PotaBloom
 https://drive.google.com/file/d/1Tf3ppv8cF7XpqTTBZBMzg1lDNu-Sp4iO/view?usp=drive_link
 
-Extreme Quality Ray Tracing ( High End Graphics Card Only )
+Atmoz RT
 https://drive.google.com/file/d/1u_Iqnk6gwdwF9m-n1swJ2SI9J9x8Fhn0/view?usp=drive_link
 
 # Presets From Dhema
