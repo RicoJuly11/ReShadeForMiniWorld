@@ -98,6 +98,9 @@ https://youtube.com/@muhammadirfanfikri8020
 Lão Ký
 https://youtube.com/@laoky8209
 
+# Developer Version
+
+https://drive.google.com/file/d/1nr-tKUxbD4xuY0MseWUHtsCViZcVD93J/view?usp=sharing
 
 # ReShade Official Website
 
