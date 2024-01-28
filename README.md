@@ -107,17 +107,9 @@ https://youtube.com/@muhammadirfanfikri8020
 Lão Ký
 https://youtube.com/@laoky8209
 
-# Developer Version
+# Credit
 
-https://drive.google.com/file/d/1nr-tKUxbD4xuY0MseWUHtsCViZcVD93J/view?usp=sharing
-
-# ReShade Official Website
-
-https://reshade.me
-
-# Pascal Gilcher Patreon
-
-https://patreon.com/mcflypg
+All effect files i got from ReShade ( https://reshade.me )
 
 # Mini World Official Website
 
