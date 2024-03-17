@@ -1,9 +1,8 @@
 
 ![PicsArt_03-17-09 17 14](https://github.com/RicoJuly11/ReShadeForMiniWorld/assets/108964938/8b079d7a-8da4-4284-b7ae-74ea93eaa471)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RicoJuly11/ReShadeForMiniWorld/total)
 
-ReShade/Shader For Mini World CREATA
+ReShade/Shader For Mini World CREATA ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RicoJuly11/ReShadeForMiniWorld/total)
 
 Download Now On [Releases](https://github.com/RicoJuly11/ReShadeForMiniWorld/releases) ➡️➡️➡️➡️➡️➡️
 
