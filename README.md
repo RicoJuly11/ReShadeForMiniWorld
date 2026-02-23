@@ -1,73 +1,55 @@
+<img width="894" height="120" alt="Illustration" src="https://github.com/user-attachments/assets/3230c96c-cb24-4103-a77e-db21806e0c96" />
 
-![PicsArt_03-31-06 42 36](https://github.com/RicoJuly11/ReShadeForMiniWorld/assets/108964938/f5c2e2c4-f1af-4531-96f0-71f734494f9b)
+![ReShade Version](https://img.shields.io/badge/ReShade-v6.7.2-blue.svg)
+![License](https://img.shields.io/badge/License-BSD%203--Clause-green.svg)
+![Release](https://img.shields.io/github/v/release/RicoJuly11/ReShadeForMiniWorld?color=orange)
+![Downloads](https://img.shields.io/github/downloads/RicoJuly11/ReShadeForMiniWorld/total)
 
+**ReShadeForMiniWorld** is a custom graphics enhancement mod designed specifically for *Mini World: Creata*. By utilizing the power of ReShade, this project drastically improves the game's visuals by adding next-generation lighting, atmospheric effects, and fine-tuned color grading.
 
-ReShade/Shader For Mini World CREATA ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/RicoJuly11/ReShadeForMiniWorld/total)
+---
 
-Download Now On [Releases](https://github.com/RicoJuly11/ReShadeForMiniWorld/releases) ➡️➡️➡️➡️➡️➡️
+## 🚀 Installation
 
-If you have any questions or need assistance, please don't hesitate to reach out to us on our [Discord server](https://discord.gg/WzzjTAs83g)
+We have made the installation process as simple as possible! There is now only **one universal setup wizard** for both Steam and Non-Steam versions of the game.
 
-🌟 Star the repository if you like it 🌟
+1. Navigate to the [Releases](https://github.com/RicoJuly11/ReShadeForMiniWorld/releases) page.
+2. Download the latest `ReShadeForMiniWorld_UniversalSetup.exe`.
+3. Run the installer and simply follow the on-screen instructions. The wizard will handle everything for you.
+4. Launch *Mini World: Creata* and enjoy your brand new visuals!
 
+## ⌨️ Hotkeys & Controls
 
+- **`Home`** : Open / Close ReShade Overlay
+- **`End`** : Enable / Disable ReShade 
+- **`F10`** : Take a screenshot *(Perfectly matches Mini World's native screenshot hotkey)*
+- **`Alt` + `+`** : Toggle/Hide the entire User Interface (including the UID at the bottom)
+- **`Alt` + `-`** : Toggle/Hide player nametags *(Highly recommended for taking cinematic screenshots!)*
 
+## 🛠️ Uninstallation
 
-## ❓ YouTube Tutorial
+Removing the mod is now easier than ever thanks to the universal setup wizard. You can safely uninstall it just like any other Windows application:
 
-https://youtu.be/Yp9dcuputGg?si=n7X6xZ21ICJ2snUt
+**Method 1: Windows Settings (Windows 10 / 11)**
+1. Open Windows **Settings** (`Win` + `I`).
+2. Navigate to **Apps** > **Installed apps** (or *Apps & features*).
+3. Search for **ReShadeForMiniWorld** in the list.
+4. Click on it (or the three dots `...`) and select **Uninstall**.
 
-## ⚙️ Presets
+**Method 2: Control Panel**
+1. Open the **Control Panel** from your Windows Start menu.
+2. Click on **Uninstall a program** (under the *Programs* category).
+3. Find **ReShadeForMiniWorld** in the list, right-click it, and select **Uninstall**.
 
-You can try some of our presets https://drive.google.com/drive/folders/117CySVDbEjodiwOOT9SmuT2DHrlWmN4e?hl=id
+## ⚖️ Disclaimer
+**This project is an independent, fan-made modification.** ReShadeForMiniWorld is **NOT** affiliated with, endorsed, sponsored, or specifically approved by Minovate, Shenzhen Minovate Technology Co., Ltd., or any official entities associated with *Mini World: Creata*. All game assets and trademarks belong to their respective owners.
 
-## 📸 Screenshots
+## 📄 License
 
-[![Screenshot (1831)](https://github.com/RicoJuly11/ReShadeForMiniWorld/assets/108964938/c9acd4ae-d89f-4b4a-9c51-b17a2765fb47)](https://imgsli.com/MjQ0MzE4)
-[![Screenshot (1834)](https://github.com/RicoJuly11/ReShadeForMiniWorld/assets/108964938/1526d453-6a06-4763-a053-fab0007a2b30)](https://imgsli.com/MjQ0MzIy)
-[![Screenshot (1836)](https://github.com/RicoJuly11/ReShadeForMiniWorld/assets/108964938/0e03caba-efa4-4da4-817c-c22ae3c5af04)](https://imgsli.com/MjQ0MzI1)
+This project is open-source and licensed under the [BSD 3-Clause License](LICENSE). 
+*Note: Shaders and effect libraries belong to their respective original authors from the ReShade repository.*
 
-## 📋 Credit
+## 💖 Credits & Acknowledgements
 
-● [ReShade](https://reshade.me/) by [crosire](https://github.com/crosire) <br />
-
-Shader Libraries: <br />
-● [SweetFX](https://github.com/CeeJayDK/SweetFX) by [CeeJayDK](https://github.com/CeeJayDK) <br />
-● [Otisfx](https://github.com/FransBouma/OtisFX) by [FransBouma](https://github.com/FransBouma) <br />
-● [FXShaders](https://github.com/luluco250/FXShaders) by [luluco250](https://github.com/luluco250) <br />
-● [reshade-shaders](https://github.com/Daodan317081/reshade-shaders) by [Daodan](https://github.com/Daodan317081) <br />
-● [Shaders](https://github.com/brussell1/Shaders) by [brussell](https://github.com/brussell1) <br />
-● [fubax-shaders](https://github.com/Fubaxiusz/fubax-shaders) by [Fubaxiusz](https://github.com/Fubaxiusz) <br />
-● [qUINT](https://github.com/martymcmodding/qUINT) by [Marty McFly](https://github.com/martymcmodding) <br />
-● [dh-reshade-shaders](https://github.com/AlucardDH/dh-reshade-shaders) by [AlucardDH](https://github.com/AlucardDH) <br />
-● [Warp-FX](https://github.com/Radegast-FFXIV/Warp-FX) by [Radegast](https://github.com/Radegast-FFXIV) <br />
-● [Color effects](https://github.com/prod80/prod80-ReShade-Repository) by [prod80](https://github.com/prod80) <br />
-● [CorgiFX](https://github.com/originalnicodr/CorgiFX) by [originalnicodr](https://github.com/originalnicodr) <br />
-● [insane-Shaders](https://github.com/LordOfLunacy/Insane-Shaders) by [LordOfLunacy](https://github.com/LordOfLunacy) <br />
-● [CobraFX](https://github.com/LordKobra/CobraFX) by [LordKobra](https://github.com/LordKobra) <br />
-● [AstrayFX](https://github.com/BlueSkyDefender/AstrayFX) by [BlueSkyDefender](https://github.com/BlueSkyDefender) <br />
-● [CRT-Royale-ReShade](https://github.com/akgunter/crt-royale-reshade) by [akgunter](https://github.com/akgunter) <br />
-● [RSRetroArch](https://github.com/Matsilagi/RSRetroArch) by [Matsilagi](https://github.com/Matsilagi) <br />
-● [VRToolkit](https://github.com/retroluxfilm/reshade-vrtoolkit) by [retroluxfilm](https://github.com/retroluxfilm) <br />
-● [FGFX](https://github.com/AlexTuduran/FGFX) by [AlexTuduran](https://github.com/AlexTuduran) <br />
-● [NiceGuy-Shaders](https://github.com/mj-ehsan/NiceGuy-Shaders) by [mj-ehsan](https://github.com/mj-ehsan) <br />
-● [CShade](https://github.com/papadanku/CShade) by [papadanku](https://github.com/papadanku) <br />
-● [iMMERSE](https://github.com/martymcmodding/iMMERSE) by [Marty McFly](https://github.com/martymcmodding) <br />
-● [vort Shaders](https://github.com/vortigern11/vort_Shaders) by [vortigern11](https://github.com/vortigern11) <br />
-● [BX-Shade](https://github.com/liuxd17thu/BX-Shade) by [Barricade MKXX](https://github.com/liuxd17thu) <br />
-● [METEOR](https://github.com/martymcmodding/METEOR) by [Marty McFly](https://github.com/martymcmodding) <br />
-● [Ann-ReShade](https://github.com/AnastasiaGals/Ann-ReShade) by [Anastasia Bouwsma](https://github.com/AnastasiaGals) <br />
-● [AdvancedAutoHDR](https://github.com/Filoppi/PumboAutoHDR) by [Pumbo](https://github.com/Filoppi/PumboAutoHDR) <br />
-● [Zentient Shaders](https://github.com/Zenteon/ZN_FX?tab=GPL-3.0-1-ov-file) by [Zenteon](https://github.com/Zenteon) <br />
-● [GShade-Shaders](https://github.com/Mortalitas/GShade-Shaders) by [Marot](https://github.com/Mortalitas) <br />
-● [Ptho-FX](https://github.com/PthoEastCoast/Ptho-FX) by [PthoEastCoast](https://github.com/PthoEastCoast) <br />
-● [potatoFX](https://github.com/GimleLarpes/potatoFX) by [GimleLarpes](https://github.com/GimleLarpes) <br />
-● [The Anagrama Collection](https://github.com/nullfrctl/reshade-shaders) by [nullfractal](https://github.com/nullfrctl) <br />
-● [Reshade Simple HDR Shaders](https://github.com/MaxG2D/ReshadeSimpleHDRShaders) by [MaxG2D](https://github.com/MaxG2D) <br />
-
-Add-on: <br />
-● [ReshadeEffectShaderToggler](https://github.com/4lex4nder/ReshadeEffectShaderToggler?tab=readme-ov-file) by [4lex4nder](https://github.com/4lex4nder)
-
-## 🌐 Mini World Official Website
-
-https://miniworldgame.com
+- Massive thanks to [Crosire](https://reshade.me/) for creating the incredible ReShade injector.
+- All the brilliant shader developers from the ReShade community.
