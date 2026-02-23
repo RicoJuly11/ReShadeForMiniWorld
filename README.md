@@ -5,7 +5,7 @@
 ![Release](https://img.shields.io/github/v/release/RicoJuly11/ReShadeForMiniWorld?color=orange)
 ![Downloads](https://img.shields.io/github/downloads/RicoJuly11/ReShadeForMiniWorld/total)
 
-**ReShadeForMiniWorld** is a custom graphics enhancement mod designed specifically for *Mini World: Creata*. By utilizing the power of ReShade, this project drastically improves the game's visuals by adding next-generation lighting, atmospheric effects, and fine-tuned color grading.
+**ReShadeForMiniWorld** is a custom graphics enhancement mod designed specifically for *Mini World: Creata*. By utilizing the power of ReShade, this mod drastically improves the game's visuals by adding next-generation lighting, atmospheric effects, and fine-tuned color grading.
 
 ---
 
